@@ -1,2 +1,2 @@
-# Galeria-de-...
-Fotos legais para um projeto de estudo
+# Galeria-de-HELLOKITTY
+aprendendo adicionar img
